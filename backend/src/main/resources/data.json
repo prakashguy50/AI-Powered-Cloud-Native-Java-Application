@@ -1,0 +1,9 @@
+{
+  "history": [
+    { "field": "LMP", "value": "2023-03-21" },
+    { "field": "EDD", "value": "2023-12-25" }
+  ],
+  "worklist": [
+    { "patientId": "P123", "status": "Scheduled" }
+  ]
+}
